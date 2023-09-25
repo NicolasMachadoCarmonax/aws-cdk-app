@@ -1,8 +1,7 @@
-# Welcome to your CDK TypeScript project
+# Welcome to the Carbee Cloud Infrastructre
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+This is a project built with the AWS CDK, this is infrastrucure as code,
+so it can be run in any aws account and it will build the services accordingly.
 
 ## Useful commands
 
