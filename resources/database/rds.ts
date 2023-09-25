@@ -32,3 +32,4 @@ export class RDS extends Construct {
     return this.cluster;
   }
 }
+
